@@ -15,6 +15,12 @@
     * [5.KIA’s mission and value](english/metaversekia-white-paper/project-introduction/5.kias-mission-and-value.md)
     * [6. Features of KIA](english/metaversekia-white-paper/project-introduction/6.-features-of-kia.md)
     * [7.KIA design concept](english/metaversekia-white-paper/project-introduction/7.kia-design-concept.md)
+  * [4️⃣ team introduction](english/metaversekia-white-paper/team-introduction.md)
+  * [5️⃣ Release plan](english/metaversekia-white-paper/release-plan/README.md)
+    * [1. Issuance rules](english/metaversekia-white-paper/release-plan/1.-issuance-rules.md)
+    * [2. Later issues with KIA public chain tokens](english/metaversekia-white-paper/release-plan/2.-later-issues-with-kia-public-chain-tokens.md)
+    * [3. Development vision](english/metaversekia-white-paper/release-plan/3.-development-vision.md)
+    * [4. Positioning layout](english/metaversekia-white-paper/release-plan/4.-positioning-layout.md)
 * [☎️ MetaverseKIA cooperation methods and contact information](english/metaversekia-cooperation-methods-and-contact-information.md)
 
 ## 中文
@@ -32,6 +38,12 @@
     * [5.KIA 的使命及价值](zhong-wen/metaversekia-bai-pi-shu/xiang-mu-jie-shao/5.kia-de-shi-ming-ji-jia-zhi.md)
     * [6.KIA 的特点](zhong-wen/metaversekia-bai-pi-shu/xiang-mu-jie-shao/6.kia-de-te-dian.md)
     * [7.KIA设计理念](zhong-wen/metaversekia-bai-pi-shu/xiang-mu-jie-shao/7.kia-she-ji-li-nian.md)
+  * [4️⃣ 团队介绍](zhong-wen/metaversekia-bai-pi-shu/tuan-dui-jie-shao.md)
+  * [5️⃣ 发行计划](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/README.md)
+    * [1.发行规则](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/1.-fa-hang-gui-ze.md)
+    * [2.KIA公链代币后期问题](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/2.kia-gong-lian-dai-bi-hou-qi-wen-ti.md)
+    * [3.发展愿景](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/3.-fa-zhan-yuan-jing.md)
+    * [4.定位布局](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/4.-ding-wei-bu-ju.md)
 * [☎️ MetaverseKIA合作方式以及联系方式](zhong-wen/metaversekia-he-zuo-fang-shi-yi-ji-lian-xi-fang-shi.md)
 
 ## 한국인

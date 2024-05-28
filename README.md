@@ -14,3 +14,11 @@ The content of the white paper is under development, please check it later.
 [project-introduction](english/metaversekia-white-paper/project-introduction/)
 {% endcontent-ref %}
 
+{% content-ref url="english/metaversekia-white-paper/team-introduction.md" %}
+[team-introduction.md](english/metaversekia-white-paper/team-introduction.md)
+{% endcontent-ref %}
+
+{% content-ref url="english/metaversekia-white-paper/release-plan/" %}
+[release-plan](english/metaversekia-white-paper/release-plan/)
+{% endcontent-ref %}
+

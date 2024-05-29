@@ -70,7 +70,7 @@
 
 ## 한국인
 
-* [메타버스KIA 백서](undefined/kia/README.md)
+* [📖 메타버스KIA 백서](undefined/kia/README.md)
   * [1️⃣ 머리말](undefined/kia/undefined.md)
   * [2️⃣ 프로젝트 배경](undefined/kia/undefined-1/README.md)
     * [1. 블록체인 기술의 급속한 발전](undefined/kia/undefined-1/1..md)

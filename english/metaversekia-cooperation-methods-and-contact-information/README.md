@@ -6,7 +6,7 @@ description: >-
 
 # ☎️ MetaverseKIA cooperation methods and contact information
 
-twitter： [https://x.com/MetaverseKIA ](https://x.com/MetaverseKIA)
+Twitter： [https://x.com/MetaverseKIA ](https://x.com/MetaverseKIA)
 
 official notification telegram： [https://t.me/MetaverseKIA](https://t.me/MetaverseKIA)&#x20;
 
@@ -18,9 +18,7 @@ YouTube： [https://www.youtube.com/@MetaverseKIA ](https://www.youtube.com/@Met
 
 Discord： [https://discord.gg/HQxkyZM6kw ](https://discord.gg/HQxkyZM6kw)
 
-reddit： [https://www.reddit.com/user/MetaverseKIA/ ](https://www.reddit.com/user/MetaverseKIA/)
-
-gitbook： [https://metaversekia.gitbook.io/metaversekia/ ](https://metaversekia.gitbook.io/metaversekia/)
+Gitbook： [https://metaversekia.gitbook.io/metaversekia/ ](https://metaversekia.gitbook.io/metaversekia/)
 
 instagram： [https://www.instagram.com/metaversekia/](https://www.instagram.com/metaversekia/)&#x20;
 
@@ -28,7 +26,7 @@ twich：[ https://www.twitch.tv/metaversekia ](https://www.twitch.tv/metaverseki
 
 tiktok： [https://www.tiktok.com/@metaversekia ](https://www.tiktok.com/@metaversekia)
 
-
+Github：[https://github.com/MetaverseKIA](https://github.com/MetaverseKIA)
 
 
 

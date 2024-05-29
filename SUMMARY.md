@@ -21,7 +21,18 @@
     * [2. Later issues with KIA public chain tokens](english/metaversekia-white-paper/release-plan/2.-later-issues-with-kia-public-chain-tokens.md)
     * [3. Development vision](english/metaversekia-white-paper/release-plan/3.-development-vision.md)
     * [4. Positioning layout](english/metaversekia-white-paper/release-plan/4.-positioning-layout.md)
-* [☎️ MetaverseKIA cooperation methods and contact information](english/metaversekia-cooperation-methods-and-contact-information.md)
+* [☎️ MetaverseKIA cooperation methods and contact information](english/metaversekia-cooperation-methods-and-contact-information/README.md)
+  * [Twittet](https://x.com/MetaverseKIA)
+  * [official notification telegram](https://t.me/MetaverseKIA)
+  * [Official social telegram](https://t.me/MetaverseKIApublic)
+  * [YouTube](https://www.youtube.com/@MetaverseKIA)
+  * [Discord](https://discord.gg/HQxkyZM6kw)
+  * [Gitbook](https://metaversekia.gitbook.io/metaversekia/)
+  * [Github](https://github.com/MetaverseKIA)
+  * [instagram](https://www.instagram.com/metaversekia/)
+  * [twich](https://www.twitch.tv/metaversekia)
+  * [tiktok](https://www.tiktok.com/@metaversekia)
+  * [cooperation method](english/metaversekia-cooperation-methods-and-contact-information/cooperation-method.md)
 
 ## 中文
 
@@ -44,7 +55,18 @@
     * [2.KIA公链代币后期问题](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/2.kia-gong-lian-dai-bi-hou-qi-wen-ti.md)
     * [3.发展愿景](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/3.-fa-zhan-yuan-jing.md)
     * [4.定位布局](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/4.-ding-wei-bu-ju.md)
-* [☎️ MetaverseKIA合作方式以及联系方式](zhong-wen/metaversekia-he-zuo-fang-shi-yi-ji-lian-xi-fang-shi.md)
+* [☎️ MetaverseKIA合作方式以及联系方式](zhong-wen/metaversekia-he-zuo-fang-shi-yi-ji-lian-xi-fang-shi/README.md)
+  * [官方推特](https://x.com/MetaverseKIA)
+  * [官方通知电报](https://t.me/MetaverseKIA)
+  * [官方社群电报](https://t.me/MetaverseKIApublic)
+  * [YouTube ](https://www.youtube.com/@MetaverseKIA)
+  * [Discord](https://discord.gg/HQxkyZM6kw)
+  * [Gitbook](https://metaversekia.gitbook.io/metaversekia/)
+  * [Github](https://github.com/MetaverseKIA)
+  * [instagram](https://www.instagram.com/metaversekia/)
+  * [twich](https://www.twitch.tv/metaversekia)
+  * [tiktok](https://www.tiktok.com/@metaversekia)
+  * [合作方式](zhong-wen/metaversekia-he-zuo-fang-shi-yi-ji-lian-xi-fang-shi/he-zuo-fang-shi.md)
 
 ## 한국인
 

@@ -16,8 +16,6 @@ YouTube： [https://www.youtube.com/@MetaverseKIA ](https://www.youtube.com/@Met
 
 Discord： [https://discord.gg/HQxkyZM6kw ](https://discord.gg/HQxkyZM6kw)
 
-reddit： [https://www.reddit.com/user/MetaverseKIA/ ](https://www.reddit.com/user/MetaverseKIA/)
-
 gitbook： [https://metaversekia.gitbook.io/metaversekia/ ](https://metaversekia.gitbook.io/metaversekia/)
 
 instagram： [https://www.instagram.com/metaversekia/](https://www.instagram.com/metaversekia/)&#x20;
@@ -26,6 +24,6 @@ twich：[ https://www.twitch.tv/metaversekia ](https://www.twitch.tv/metaverseki
 
 tiktok： [https://www.tiktok.com/@metaversekia ](https://www.tiktok.com/@metaversekia)
 
-
+Github：[https://github.com/MetaverseKIA](https://github.com/MetaverseKIA)
 
 如果您要合作的话，我们建议您可以通过邮箱的方式与我们取得联系，感谢您的支持

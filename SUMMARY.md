@@ -33,6 +33,7 @@
   * [twich](https://www.twitch.tv/metaversekia)
   * [tiktok](https://www.tiktok.com/@metaversekia)
   * [cooperation method](english/metaversekia-cooperation-methods-and-contact-information/cooperation-method.md)
+* [🎬 KIA Public Chain Video Introduction](https://www.youtube.com/watch?v=pYH-cJimYVg)
 
 ## 中文
 
@@ -55,6 +56,7 @@
     * [2.KIA公链代币后期问题](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/2.kia-gong-lian-dai-bi-hou-qi-wen-ti.md)
     * [3.发展愿景](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/3.-fa-zhan-yuan-jing.md)
     * [4.定位布局](zhong-wen/metaversekia-bai-pi-shu/fa-hang-ji-hua/4.-ding-wei-bu-ju.md)
+  * [🎬 KIA公链视频介绍](https://www.youtube.com/watch?v=pYH-cJimYVg)
 * [☎️ MetaverseKIA合作方式以及联系方式](zhong-wen/metaversekia-he-zuo-fang-shi-yi-ji-lian-xi-fang-shi/README.md)
   * [官方推特](https://x.com/MetaverseKIA)
   * [官方通知电报](https://t.me/MetaverseKIA)
@@ -67,6 +69,7 @@
   * [twich](https://www.twitch.tv/metaversekia)
   * [tiktok](https://www.tiktok.com/@metaversekia)
   * [合作方式](zhong-wen/metaversekia-he-zuo-fang-shi-yi-ji-lian-xi-fang-shi/he-zuo-fang-shi.md)
+* [🎬 KIA公链视频介绍](https://www.youtube.com/watch?v=pYH-cJimYVg)
 
 ## 한국인
 

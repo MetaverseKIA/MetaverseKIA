@@ -92,7 +92,7 @@
     * [2. KIA 퍼블릭 체인 토큰 관련 향후 이슈](undefined/kia/undefined-4/2.-kia.md)
     * [3. 발전비전](undefined/kia/undefined-4/3..md)
     * [4. 포지셔닝 레이아웃](undefined/kia/undefined-4/4..md)
-* [MetaverseKIA 협력 방법 및 연락처 정보](undefined/metaversekia/README.md)
+* [☎️ MetaverseKIA 협력 방법 및 연락처 정보](undefined/metaversekia/README.md)
   * [공식 트위터](https://x.com/MetaverseKIA)
   * [공식 공지 텔레그램 ](https://t.me/MetaverseKIA)
   * [공식 소셜 텔레그램](https://t.me/MetaverseKIApublic)
@@ -104,3 +104,4 @@
   * [틱톡](https://www.tiktok.com/@metaversekia)
   * [Github](https://github.com/MetaverseKIA)
   * [협력 방법](undefined/metaversekia/undefined.md)
+* [기아 퍼블릭 체인 영상 소개](https://www.youtube.com/watch?v=pYH-cJimYVg)

@@ -2,7 +2,7 @@
 description: 우리와 함께하고 싶거나 우리와 연락하고 싶다면 아래 콘텐츠를 통해 우리와 소통할 수 있습니다.
 ---
 
-# MetaverseKIA 협력 방법 및 연락처 정보
+# ☎️ MetaverseKIA 협력 방법 및 연락처 정보
 
 공식 트위터: https://x.com/MetaverseKIA&#x20;
 
@@ -17,8 +17,6 @@ description: 우리와 함께하고 싶거나 우리와 연락하고 싶다면 �
 디스코드: https://discord.gg/HQxkyZM6kw&#x20;
 
 gitbook: https://metaversekia.gitbook.io/metaversekia/&#x20;
-
-인스타그램: https://www.instagram.com/metaversekia/&#x20;
 
 트위치: https://www.twitch.tv/metaversekia&#x20;
 

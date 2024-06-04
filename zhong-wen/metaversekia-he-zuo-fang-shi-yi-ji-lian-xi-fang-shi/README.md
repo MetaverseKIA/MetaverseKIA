@@ -18,8 +18,6 @@ Discord： [https://discord.gg/HQxkyZM6kw ](https://discord.gg/HQxkyZM6kw)
 
 gitbook： [https://metaversekia.gitbook.io/metaversekia/ ](https://metaversekia.gitbook.io/metaversekia/)
 
-instagram： [https://www.instagram.com/metaversekia/](https://www.instagram.com/metaversekia/)&#x20;
-
 twich：[ https://www.twitch.tv/metaversekia ](https://www.twitch.tv/metaversekia)
 
 tiktok： [https://www.tiktok.com/@metaversekia ](https://www.tiktok.com/@metaversekia)

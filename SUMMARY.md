@@ -104,4 +104,4 @@
   * [Github](https://github.com/MetaverseKIA)
   * [협력 방법](undefined/metaversekia/undefined.md)
 * [🎬 기아 퍼블릭 체인 영상 소개](https://www.youtube.com/watch?v=pYH-cJimYVg)
-* [공식 웹 사이트](https://www.metakina.com/)
+* [💻 공식 웹 사이트](https://www.metakina.com/)
